@@ -1,0 +1,10 @@
+name: VillagerTrade
+main: me.Albert.VillagerTrade.Main
+version: 1.0.0
+author: Albert
+commands:
+    vtreload:
+        description: Reload Plugin Config
+        permission: vt.reload
+
+    

@@ -1,0 +1,6 @@
+#The chance of a Villager change his proffession while trading finished,Max 100,Default 4
+chance: 4
+#The message to send while a villager changed his proffesion
+message: "&7<&bVillager&7> &rThis is too bored!I'm gonna change my job!"
+#wether villager changes log to console
+consolelogs: true
