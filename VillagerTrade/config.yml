@@ -13,3 +13,5 @@ consolelogs: true
 #How long should a villager at least live in order to change his proffesion or been removed, in ticks, 20 tick = 1s
 #Default 36000,Do not recommand set this to 0!
 ticks: 36000
+#Does a villager has to unlock all his trading recipes in order to change/remove?
+unlockall: true

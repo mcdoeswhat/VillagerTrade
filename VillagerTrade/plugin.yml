@@ -1,6 +1,6 @@
 name: VillagerTrade
 main: me.Albert.VillagerTrade.Main
-version: 2.0.0
+version: 2.1.0
 author: Albert
 commands:
     vtreload:
